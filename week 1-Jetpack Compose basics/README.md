@@ -12,6 +12,7 @@ Week1 Jetpack Compose Basic 코드랩은 새 프로젝트를 만드는 것으로
 
 -   Jetpack Compose는 Kotlin 컴파일러 플러그인을 사용하여 구성 가능한 함수를 앱의 UI 요소로 변환합니다. 예를 들어 Compose UI 라이브러리에서 정의한 Text() 함수는 화면에 텍스트 라벨을 표시합니다.
 
+## 구성 가능한 함수 정의
 -   함수를 구성 가능하게 하려면 @Composable 주석을 추가해야 합니다. 이렇게 하려면 이름을 전달받는 MessageCard() 함수를 정의하고 이를 사용하여 텍스트 요소를 구성합니다.
 
 ## Android 스튜디오에서 함수 미리보기
